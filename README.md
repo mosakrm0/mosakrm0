@@ -5,11 +5,9 @@ I am a **DevOps Engineer** and a student of **Network Security And Systems Engin
 ---
 
 ###  GitHub Stats & Top Languages
-
-![Mosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosakrm0&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosakrm0&layout=compact&theme=transparent&hide_border=true)
-
+![Mosa's GitHub Metrics](https://metrics.lecoq.io/mosakrm0?template=classic&base.theme=light)
+![Mosa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosakrm0&theme=transparent&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosakrm0&theme=transparent)
 ---
 
 ###  Tech Stack & Tools
