@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+there%2C+I'm+Mosa+Akram)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07EAF7&width=435&lines=Hi+there%2C+I'm+Mosa+Akram)](https://git.io/typing-svg)
 
 I am a DevOps Engineer and a student of Network Security And Systems Engineering. I am highly passionate about automation and cloud technologies, with a strong focus on building resilient infrastructure and streamlining deployment pipelines.
 
