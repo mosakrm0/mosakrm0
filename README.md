@@ -1,20 +1,36 @@
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=550&lines=Hi+there,+I'm+Mosa+Akram!;DevOps+%26+Systems+Engineering+Student;Passionate+about+Cloud+%26+Automation)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07EAF7&width=435&lines=Hi+there%2C+I'm+Mosa+Akram!)](https://git.io/typing-svg)
+I am a **DevOps Engineer** and a student of **Network Security And Systems Engineering**. I am highly passionate about automation, cloud technologies, and building resilient infrastructure.
 
-I am a DevOps & Network Security And Systems Engineer. I am highly passionate about automation and cloud technologies, with a strong focus on building resilient infrastructure and streamlining deployment pipelines.
+---
+
+###  GitHub Stats & Top Languages
+
+![Mosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosakrm0&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosakrm0&layout=compact&theme=transparent&hide_border=true)
+
+---
 
 ###  Tech Stack & Tools
-* **DevOps & Orchestration:** Docker, Kubernetes (CKA trained), Helm, GitOps with ArgoCD.
-* **CI/CD & Automation:** GitHub Actions, Jenkins, Ansible, Terraform.
-* **Cloud & Infrastructure:** AWS Cloud Practitioner, Linux Administration, Networking Fundamentals.
-* **Programming & Scripting:** C, C++, Python, Ruby, Bash Scripting, HTML/CSS/JavaScript.
+
+**DevOps & Cloud:**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Programming & Scripting:**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ###  Featured Projects
 * **L4 Load Balancer:** Built a custom Layer 4 Load Balancer in C utilizing Unix Sockets and Docker Compose to distribute network traffic efficiently.
@@ -23,7 +39,9 @@ I am a DevOps & Network Security And Systems Engineer. I am highly passionate ab
 * **Self-Hosting Environment:** Converted legacy hardware into a headless Debian Linux server using Docker, Portainer, and Zrok for secure remote access without traditional port forwarding.
 * **TCP Client-Server:** Developed a C-based application for remote data filtering and calculation, managing low-level network communication over TCP sockets.
 
+---
+
 ###  Let's Connect
-* **Email:** mosakram0@gmail.com
-* **LinkedIn:** [linkedin.com/in/mosakrm](https://linkedin.com/in/mosakrm/)
-* **Location:** Amman, Jordan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mosakrm/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mosakram0@gmail.com)
