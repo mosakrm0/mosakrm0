@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07EAF7&width=435&lines=Hi+there%2C+I'm+Mosa+Akram)](https://git.io/typing-svg)
 
-I am a DevOps Engineer and a student of Network Security And Systems Engineering. I am highly passionate about automation and cloud technologies, with a strong focus on building resilient infrastructure and streamlining deployment pipelines.
+I am a DevOps & Network Security And Systems Engineer. I am highly passionate about automation and cloud technologies, with a strong focus on building resilient infrastructure and streamlining deployment pipelines.
 
 ###  Tech Stack & Tools
 * **DevOps & Orchestration:** Docker, Kubernetes (CKA trained), Helm, GitOps with ArgoCD.
