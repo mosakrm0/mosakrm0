@@ -1,4 +1,14 @@
-# Hi there, I'm Mosa Akram 
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Mosa+Akram+👋;DevOps+%26+Network+Security+Eng" alt="Typing SVG" />
+</div>
 
 I am a DevOps Engineer and a student of Network Security And Systems Engineering. I am highly passionate about automation and cloud technologies, with a strong focus on building resilient infrastructure and streamlining deployment pipelines.
 
