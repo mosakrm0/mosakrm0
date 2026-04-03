@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=550&lines=Hi+there,+I'm+Mosa+Akram!;DevOps+%26+Systems+Engineering+Student;Passionate+about+Cloud+%26+Automation)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&width=550&lines=Hi+there,+I'm+Mosa+Akram!;DevOps+%26+Engineering;Passionate+about+Cloud+%26+Automation)
 
-I am a **DevOps Engineer** and a student of **Network Security And Systems Engineering**. I am highly passionate about automation, cloud technologies, and building resilient infrastructure.
+I am a **DevOps Engineer**. I am highly passionate about automation, cloud technologies, and building resilient infrastructure.
 
 ---
 
