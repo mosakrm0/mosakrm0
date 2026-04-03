@@ -4,15 +4,10 @@ I am a **DevOps Engineer** and a student of **Network Security And Systems Engin
 
 ---
 
-###  GitHub Stats & Top Languages
-![Mosa's GitHub Metrics](https://metrics.lecoq.io/mosakrm0?template=classic&base.theme=light)
-![Mosa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mosakrm0&theme=transparent&hide_border=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosakrm0&theme=transparent)
----
-
 ###  Tech Stack & Tools
 
-**DevOps & Cloud:**
+**DevOps & Cloud:** 
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
@@ -22,6 +17,7 @@ I am a **DevOps Engineer** and a student of **Network Security And Systems Engin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Programming & Scripting:**
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
